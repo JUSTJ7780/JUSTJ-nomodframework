@@ -9,7 +9,7 @@ using UnityEngine;
 
 namespace NOModFramework
 {
-    [BepInPlugin("com.JUSTJ7780.nomodframework", "NO Mod Framework", "1.1.0")]
+    [BepInPlugin("com.JUSTJ7780.nomodframework", "NO Mod Framework", "1.2.0")]
     public class FrameworkPlugin : BaseUnityPlugin
     {
         internal static FrameworkPlugin Instance { get; private set; }
